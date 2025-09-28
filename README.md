@@ -27,6 +27,9 @@ Documentation centralisée pour Project Umbra - Un jeu vidéo Hack'n'slash RPG i
 - [Guide de Contribution](guides/contributing.md)
 - [Standards de Code](guides/coding-standards.md)
 
+### 🗂️ Gestion de Projet
+- [Liste des Issues](git/issues.md)
+
 ## 🚀 Liens Rapides
 
 ### Repositories
